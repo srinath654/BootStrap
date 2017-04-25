@@ -1,4 +1,4 @@
-package com.javatpoint.servlets;
+package com.java.servlets;
 
 import java.io.IOException;
 import java.io.PrintWriter;

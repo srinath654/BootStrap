@@ -1,4 +1,4 @@
-package com.javatpoint.dao;
+package com.java.dao;
 import java.sql.*;
 public class DB {
 public static Connection getCon(){
